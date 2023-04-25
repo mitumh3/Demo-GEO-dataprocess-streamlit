@@ -1,12 +1,12 @@
 # Demo-GEO-dataprocess-streamlit
 
-## Derive GEO files from <https://www.ncbi.nlm.nih.gov/geo/> by Accession ID
+## 1. Derive GEO files from <https://www.ncbi.nlm.nih.gov/geo/> by Accession ID
 
 <div align="center">
   <img src="demo/accession-id.gif" width="100%"" />
 </div>
 
-## Raw and processed data
+## 2. Raw and processed data
 
 - Column filter of clinical data
 
@@ -20,7 +20,7 @@
   <img src="demo/edit-save.gif" width="100%"" />
 </div>
 
-## Plot page
+## 3. Plot page
 
 <div align="center">
   <img src="demo/plot-paras.gif" width="100%"" />
